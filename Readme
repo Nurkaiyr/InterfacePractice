@@ -1,0 +1,12 @@
+Курс: Платформа Microsoft .NET и язык программирования C#
+
+Тема: Интерфейсы.
+
+1.	Создать интерфейс IStudent: 
+●	string Name { get; set; }
+●	string FullName { get; set; }
+●	int[] Grades { get; set; }
+●	String GetName()
+●	String GetFullName() 
+●	Double GetAvgGrade() 
+Наследовать от интерфейса класс Student и реализовать его.
